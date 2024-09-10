@@ -5,6 +5,7 @@ class HomePage
         this.page = page
         this.menu = "img[alt='menu']"
         this.signOutOption = "button[class='nav-menu-item']"
+        this.addbutton = "button[class='nav-menu-item']"
     }
 
 
